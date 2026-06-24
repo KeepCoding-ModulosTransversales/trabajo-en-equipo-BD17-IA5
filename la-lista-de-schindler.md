@@ -11,7 +11,6 @@ tags:
   - "clippings"
 ---
 
-
 ## What Is Steven Spielberg's Best Film?
 
-Steven Spielberg has legions of devoted fans thanks to iconic films 
+Steven Spielberg has legions of devoted fans thanks to iconic films
