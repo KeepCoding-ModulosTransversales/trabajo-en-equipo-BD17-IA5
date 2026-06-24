@@ -55,3 +55,5 @@ Michael decide ajustarle las cuentas a Carlo Rizzi por su complicidad con el ase
 Enterada del asesinato de su marido Carlo, Connie acude donde Michael llorando furiosa, y lo acusa en presencia de Kay de ser el asesino de Carlo, de haber esperado a que el Don muriera para matarlo por la muerte de Sonny, así como también lo acusa del asesinato del conjunto de jefes mafiosos. Kay le pregunta a su marido si realmente él ha sido el autor de los asesinatos. Michael, de mala manera, se niega a responderle, pero tras la insistencia de Kay, Michael se violenta y miente, al negar haber tenido relación con los mismos. Sin embargo, Kay se da cuenta de que lo que dice Connie es cierto cuando ve que Michael recibe el saludo de varios amigos, quienes lo saludan respetuosamente como el nuevo Padrino. La película termina con Al Neri cerrando suavemente la puerta a Kay.
 
 Es así como Michael Corleone se convierte en el hombre más poderoso de la Cosa Nostra en Estados Unidos.
+
+Wikipedia, compilado por Adolfo Capellades
