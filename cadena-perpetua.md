@@ -81,3 +81,7 @@ La película está basada en la novela corta **_Rita Hayworth y la redención de
 ---
 
 _Fuente: IMDb · Wikipedia · SensaCine · FilmAffinity_
+
+---
+
+_Autor: German Parlatto_
