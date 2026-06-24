@@ -1,3 +1,6 @@
+
+Juan Barba Diaz
+
 La película Doce hombres sin piedad relata la deliberación del jurado 
 popular de un caso judicial, en el que se acusa a un joven de 18 años de 
 homicidio en primer grado por, presuntamente, haber matado a su padre. El 
