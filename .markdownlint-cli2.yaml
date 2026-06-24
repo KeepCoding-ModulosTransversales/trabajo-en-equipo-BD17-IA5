@@ -1,0 +1,22 @@
+config:
+  default: true
+  # Repository content is curated from external sources and educational notes.
+  # The following rules are intentionally disabled to avoid rewriting source text.
+  # Heading structure rules
+  MD001: false
+  MD022: false
+  MD024: false
+  MD041: false
+  # List formatting rules
+  MD007: false
+  MD032: false
+  # Whitespace rules
+  MD009: false
+  MD012: false
+  MD047: false
+  # Link formatting/reference rules
+  MD011: false
+  MD013: false
+  MD034: false
+  MD036: false
+  MD052: false
